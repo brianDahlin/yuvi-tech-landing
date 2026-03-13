@@ -126,7 +126,7 @@ export const HERO_SUBTITLE =
 export const CONTACT_EMAIL = 'info@yuvi.technology'
 
 export const HERO_CONTENT = {
-  badge: 'AI & Web3 разработка',
+  badge: 'AI & Intelligent Data Systems',
   title: 'Переводим амбиции в измеримые результаты с AI',
   subtitle:
     'YuVi Technology — ваш стратегический партнёр по искусственному интеллекту: от идеи до внедрения',

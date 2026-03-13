@@ -24,11 +24,11 @@ const fragmentMono = Fragment_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'YuVi Tech — AI & Web3 Development',
+  title: 'YuVi Tech — AI & Intelligent Data Systems',
   description:
     'Стратегический партнёр по искусственному интеллекту: от идеи до внедрения. Помогаем корпорациям и растущим компаниям зарабатывать на данных.',
   openGraph: {
-    title: 'YuVi Tech — AI & Web3 Development',
+    title: 'YuVi Tech — AI & Intelligent Data Systems',
     description: 'Стратегический партнёр по AI: от идеи до внедрения',
     url: 'https://yuvi.technology',
   },
