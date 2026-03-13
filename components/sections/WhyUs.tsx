@@ -41,7 +41,7 @@ const CardDecorator = ({ children }: { children: ReactNode }) => (
 )
 
 export default function WhyUs() {
-  const { ref, inView } = useInView()
+  const { ref, inView } = useInView<HTMLUListElement>()
 
   return (
     <section id="why-us" className="py-20 md:py-28">
